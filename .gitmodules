@@ -1,0 +1,42 @@
+[submodule "7-days-nodejs"]
+	path = 7-days-nodejs
+	url = git@github.com:nqdeng/7-days-nodejs.git
+[submodule "npm-basic-usage"]
+	path = npm-basic-usage
+	url = git@github.com:theicebear/npm-basic-usage.git
+[submodule "css-vocabulary"]
+	path = css-vocabulary
+	url = git@github.com:yisibl/css-vocabulary.git
+[submodule "ChromeExtensionDocument"]
+	path = ChromeExtensionDocument
+	url = git@github.com:Yixi/ChromeExtensionDocument.git
+[submodule "docker_practice"]
+	path = docker_practice
+	url = git@github.com:yeasy/docker_practice.git
+[submodule "vuejs.org"]
+	path = vuejs.org
+	url = git@github.com:vuefe/vuejs.org.git
+[submodule "ESLint-rules-docs-cn"]
+	path = ESLint-rules-docs-cn
+	url = git@github.com:y8n/ESLint-rules-docs-cn.git
+[submodule "eslint.cn"]
+	path = eslint.cn
+	url = git@github.com:smocean/eslint.cn.git
+[submodule "jshint-docs-cn"]
+	path = jshint-docs-cn
+	url = git@github.com:mytcer/jshint-docs-cn.git
+[submodule "normalize-zh"]
+	path = normalize-zh
+	url = git@github.com:Alsiso/normalize-zh.git
+[submodule "oocss"]
+	path = oocss
+	url = git@github.com:stubbornella/oocss.git
+[submodule "csslintrc"]
+	path = csslintrc
+	url = git@github.com:ebednarz/csslintrc.git
+[submodule "jshint-doc-cn"]
+	path = jshint-doc-cn
+	url = git@github.com:lonjoy/jshint-doc-cn.git
+[submodule "git-recipes"]
+	path = git-recipes
+	url = git@github.com:geeeeeeeeek/git-recipes.git
